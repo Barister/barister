@@ -24,17 +24,21 @@ I am studying The Odin Project Full Stack JavaScript Course, focusing on JavaScr
 ## Porfolio and pet-projects
 - [Odin Tic-Tac-Toe](https://barister.github.io/odin-tictactoe/) using factory functions, [repo](https://github.com/Barister/odin-tictactoe)  
 
-[![Odin Tic-Tac-Toe](https://liskevich.com/img/tic-tac-toe_crop.jpg)](https://barister.github.io/odin-tictactoe/)
+[![Odin Tic-Tac-Toe](https://liskevich.com/img/tic-tac-toe_cropped.jpg)](https://barister.github.io/odin-tictactoe/)
 
-- [Odin Etch-a-Sketch](https://barister.github.io/etch-a-sketch/) with simple functional JS, [repo](https://github.com/Barister/etch-a-sketch)
+- [Odin Etch-a-Sketch](https://barister.github.io/etch-a-sketch/) with simple functional JS, [repo](https://github.com/Barister/etch-a-sketch)  
 
 [![Odin Etch-a-Sketch](https://liskevich.com/img/ecth-a-sketch_crop.jpg)](https://[barister.github.io/etch-a-sketch/)(https://barister.github.io/etch-a-sketch/)  
 
-- [Basic Quotes Machine React app](https://barister.github.io/quotes-machine) with API integration, [repo](https://github.com/Barister/quotes-machine)
+- [Basic Quotes Machine React app](https://barister.github.io/quotes-machine) with API integration, [repo](https://github.com/Barister/quotes-machine)  
 
 [![Basic Quotes Machine React app](https://liskevich.com/img/quotes-machine_crop.jpg)](https://[barister.github.io/quotes-machine/)(https://barister.github.io/quotes-machine/)  
 
-- [Vanilla JS calc](https://barister.github.io/calculator/) with simple functional JS, [repo](https://github.com/Barister/calculator)
+- [Vanilla JS calc](https://barister.github.io/calculator/) with simple functional JS, [repo](https://github.com/Barister/calculator)  
+
+[![Vanilla JS calc](https://liskevich.com/img/calculator_crop.jpg)](https://[barister.github.io/calculator/)(https://barister.github.io/calculator/)  
+
+
 - [D'Athletics Responsive Landing Page](https://barister.github.io/dathletics/) with vanilla JS, [repo](https://github.com/Barister/dathletics)
 - [UpStudio Responsive Landing Page](https://barister.github.io/upstudio/) with vanilla JS, [repo](https://github.com/Barister/upstudio)
 - [WP Сlassic Theme Page](https://geniecreates.art/) with customs fields
