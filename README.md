@@ -43,9 +43,9 @@ I am studying The Odin Project Full Stack JavaScript Course, focusing on JavaScr
 
 [![D'Athletics Responsive Landing Page](https://liskevich.com/img/dathletics_crop.jpg)](https://barister.github.io/dathletics/)
 
-- [UpStudio Responsive Landing Page](https://barister.github.io/upstudio/) with vanilla JS, [repo](https://github.com/Barister/upstudio)
+- [UpStudio Responsive Landing Page](https://barister.github.io/upstudio/dist/) with vanilla JS, [repo](https://github.com/Barister/upstudio)
 
-[![UpStudio Responsive Landing Page](https://liskevich.com/img/upstudio_crop.jpg)](https://barister.github.io/upstudio/)
+[![UpStudio Responsive Landing Page](https://liskevich.com/img/upstudio_crop.jpg)](https://barister.github.io/upstudio/dist/)
 
 - [WP Сlassic Theme Page](https://geniecreates.art/) with customs fields
 
