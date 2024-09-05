@@ -22,7 +22,7 @@ I am studying The Odin Project Full Stack JavaScript Course, focusing on JavaScr
 - Management of IT infrastructure: video surveillance systems, IP telephony, workstation deployment, and communication channel configuration
 
 ## Porfolio and pet-projects
-![Odin Tic-Tac-Toe](https://liskevich.com/img/tic-tac-toe.jpg)
+![Odin Tic-Tac-Toe](https://liskevich.com/img/tic-tac-toe_crop.jpg)(https://barister.github.io/odin-tictactoe/)
 - [Odin Tic-Tac-Toe](https://barister.github.io/odin-tictactoe/) using factory functions, [repo](https://github.com/Barister/odin-tictactoe)
 - [Odin Etch-a-Sketch](https://barister.github.io/etch-a-sketch/) with simple functional JS, [repo](https://github.com/Barister/etch-a-sketch)
 - [Basic Quotes Machine React app](https://barister.github.io/quotes-machine) with API integration, [repo](https://github.com/Barister/quotes-machine)
