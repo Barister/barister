@@ -40,9 +40,20 @@ I am studying The Odin Project Full Stack JavaScript Course, focusing on JavaScr
 
 
 - [D'Athletics Responsive Landing Page](https://barister.github.io/dathletics/) with vanilla JS, [repo](https://github.com/Barister/dathletics)
+
+[![D'Athletics Responsive Landing Page](https://liskevich.com/img/dathletics_crop.jpg)](https://barister.github.io/dathletics/)
+
 - [UpStudio Responsive Landing Page](https://barister.github.io/upstudio/) with vanilla JS, [repo](https://github.com/Barister/upstudio)
+
+[![UpStudio Responsive Landing Page](https://liskevich.com/img/upstudio_crop.jpg)](https://barister.github.io/upstudio/)
+
 - [WP Сlassic Theme Page](https://geniecreates.art/) with customs fields
-- [Rental Vacation Landing Page](https://opsa-karelia.ru/)
+
+[![WP Сlassic Theme Page](https://liskevich.com/img/evgeniia-landing_crop.jpg)](https://geniecreates.art/)
+
+- [Vacation Rental Landing Page](https://opsa-karelia.ru/)
+
+[![Vacation Rental Landing Page](https://liskevich.com/img/opsa-karelia_crop.jpg)](https://opsa-karelia.ru/)
 
 ## Contacts
 - [LinkedIn]()
