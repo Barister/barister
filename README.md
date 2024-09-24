@@ -14,7 +14,7 @@ I am studying The Odin Project Full Stack JavaScript Course, focusing on JavaScr
 - HTML5 with BEM methodology basics
 - CSS (FLEX, GRID) with SASS and SCSS
 - Vanilla JavaScript
-- Using Prepros and Gulp for site development
+- Using Prepros, Webpack and Gulp for site development
 - React, NodeJS fundamentals
 - Basic knowledge of GIT and GitHub
 - Familiarity with CMS: WordPress, Joomla, MODx, Moodle
@@ -22,6 +22,11 @@ I am studying The Odin Project Full Stack JavaScript Course, focusing on JavaScr
 - Management of IT infrastructure: video surveillance systems, IP telephony, workstation deployment, and communication channel configuration
 
 ## Porfolio and pet-projects
+
+- [Odin Restaurant](https://barister.github.io/odin-restaurant/) basic SPA using Webpack bundler, [repo](https://github.com/Barister/odin-restaurant)  
+
+[![Odin Restaurant](https://liskevich.com/img/odin-restaurant_crop.jpg)](https://barister.github.io/odin-restaurant/)
+
 - [Odin Tic-Tac-Toe](https://barister.github.io/odin-tictactoe/) using factory functions, [repo](https://github.com/Barister/odin-tictactoe)  
 
 [![Odin Tic-Tac-Toe](https://liskevich.com/img/tic-tac-toe_cropped.jpg)](https://barister.github.io/odin-tictactoe/)
